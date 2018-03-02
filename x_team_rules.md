@@ -21,7 +21,8 @@ By meeting the group memebers and try to figure out together
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-By keep reminding each other breforhand 
+By keep reminding each other breforhand.
+Difficulties will be sent to members with related experience.
 
 
 
