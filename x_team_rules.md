@@ -10,7 +10,7 @@ and missed deadlines.
 
 ## How we will assign (and reassign) tasks
 We assign tasks equally to the members
-
+We help each other so that we do not need to reassign the task.
 
 ## How will we will track progress (and follow-up) on completion of tasks
 By reaching to each other on a group chat
