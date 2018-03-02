@@ -4,8 +4,7 @@ Make codes that can get A's.
 
 ## Naming conventions
 
-<brief statement describing your team's naming conventions>
-
+As long as it is easy to understand, the name should no be ambiugous.
 ### Examples
 * interfaces
 * classes
