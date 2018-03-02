@@ -1,6 +1,6 @@
 # X-Team 23 Style Guide
 
-<brief description of your team's opinion or philosophy regarding Style Guides>
+Make codes that can get A's.
 
 ## Naming conventions
 
@@ -19,7 +19,7 @@
 
 ## Commenting style for public and private members of a class or interface:
 
-<brief statement of your team's commenting style>
+As long as it is understandbale, then it is ok.
 
 ### Examples
 
