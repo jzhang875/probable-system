@@ -110,3 +110,4 @@ Submit these files to Canvas for your team for this assignment.   The final subm
 3. x_style_guide.md
   
   
+![Image of CS MEME] https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiR8cDqqszZAhXL4IMKHfNbDQoQjRwIBw&url=https%3A%2F%2Fwrcespinozahernandez.wordpress.com%2F2015%2F06%2F29%2Fcomputer-science-meme%2F&psig=AOvVaw0WJmdABu3wlfQAV_PEjOfq&ust=1520035274238373
