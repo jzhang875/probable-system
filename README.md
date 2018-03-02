@@ -4,10 +4,10 @@
 2. Answer these questions
    * What are the GitHub usernames of your team members?
        * GitHub username 1:bowenz35
-       * GitHub username 2:
-       * GitHub username 3:
-       * GitHub username 4:
-       * GitHub username 5:
+       * GitHub username 2:griff16
+       * GitHub username 3:RainerYuan
+       * GitHub username 4:jzhang875
+       * GitHub username 5:JichenZhang
    * When did you complete this exercise? March 1st.
    * How long did it take your team to complete this exercise?  About 2 hours.
 
