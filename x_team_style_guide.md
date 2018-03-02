@@ -31,16 +31,16 @@ As long as it is understandbale, then it is ok.
   * switch statement
   * while loops
   * for loops
-  * enhanced for loops
-*///////////////////////////////////////////////////////////////////////////////
-// assignment name: p1 PQ
-// Author: Tianyuan(Rainer) Yuan
-// Email : tyuan22@wisc.edu
-// due date: Jan 5th 2018
-// CS Login: tyuan22
-// Credits: none
-// known bugs: none
-//////////////////////////////////////////////////////////////////////////////
+  * enhanced for loops  
+*///////////////////////////////////////////////////////////////////////////////  
+// assignment name: p1 PQ  
+// Author: Tianyuan(Rainer) Yuan  
+// Email : tyuan22@wisc.edu  
+// due date: Jan 5th 2018  
+// CS Login: tyuan22  
+// Credits: none  
+// known bugs: none  
+//////////////////////////////////////////////////////////////////////////////  
 /**
  * Series of test for the maxPq constructed
  * 
